@@ -28,4 +28,4 @@
 [百度]: http//www.baidu.com
 [baidu]: http//www.baidu.com
 [demo1]: demo1.md
-[代码块 demo]: demo2.md#代码块-demo
+[demo]: demo2.md#代码块-demo
